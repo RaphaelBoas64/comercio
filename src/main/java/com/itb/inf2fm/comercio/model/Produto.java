@@ -36,7 +36,6 @@ public class Produto {
 	private String nome;
 	private String descricao;
 	private String codigoBarras;
-	private double preco;
-	
-	
-}
+	private double preco;	
+	}	
+
